@@ -41,4 +41,3 @@ void AInterfacedPawn::ProcessInteraction(FHitResult& HitResult)
 		}
 	}
 }
-*/
